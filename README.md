@@ -1,4 +1,4 @@
-# T0 - ML/MLOps Engineering Internship Assessment
+# T0 - ML/MLOps Engineering Assessment
 
 ## Overview
 
